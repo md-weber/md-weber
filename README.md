@@ -6,15 +6,6 @@
 - 📫 How to reach me: https://twitter.com/flutter_exp
 - ⚡ Fun fact: I sleep longer than I am awake
 
-## My latest Blogposts
-<!-- BLOG-POST-LIST:START -->
-- [3. Problems we avoid with our CI / CD pipeline](https://flutter-explained.dev/blog/ci-cd-setup-codemagic/)
-- [Step-by-Step guide for Flutter JSON Serialization](https://flutter-explained.dev/blog/flutter-json-serialization/)
-- [Flutter Navigation – Everything you need to know](https://flutter-explained.dev/blog/three-ways-to-handle-flutter-navigation/)
-- [Setup a Flutter Web Project on GitHub Pages](https://flutter-explained.dev/blog/setup-a-flutter-web-project-on-github-pages/)
-- [My Flutter Story](https://flutter-explained.dev/blog/my-flutter-story/)
-<!-- BLOG-POST-LIST:END -->
-
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [SOLID Principles - Five Principles to avoid Bad Software Patterns - Good to know](https://www.youtube.com/watch?v=tWXPd4Dkuls)
@@ -24,6 +15,14 @@
 - [Widget Test Demo - Cross Platform Mobile Development Summit 2020](https://www.youtube.com/watch?v=u8toWolo4BE)
 <!-- YOUTUBE:END -->
 
+## My latest Blogposts
+<!-- BLOG-POST-LIST:START -->
+- [3. Problems we avoid with our CI / CD pipeline](https://flutter-explained.dev/blog/ci-cd-setup-codemagic/)
+- [Step-by-Step guide for Flutter JSON Serialization](https://flutter-explained.dev/blog/flutter-json-serialization/)
+- [Flutter Navigation – Everything you need to know](https://flutter-explained.dev/blog/three-ways-to-handle-flutter-navigation/)
+- [Setup a Flutter Web Project on GitHub Pages](https://flutter-explained.dev/blog/setup-a-flutter-web-project-on-github-pages/)
+- [My Flutter Story](https://flutter-explained.dev/blog/my-flutter-story/)
+<!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Statistics
 [![Max Weber GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-weber&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
