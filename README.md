@@ -8,11 +8,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Redux - Single Source of Truth - State Management](https://www.youtube.com/watch?v=60_2HlagOzg)
 - [SOLID Principles - Five Principles to avoid Bad Software Patterns - Good to know](https://www.youtube.com/watch?v=tWXPd4Dkuls)
 - [Frontend Mentors - Create a Profile Card - Flutter Challange](https://www.youtube.com/watch?v=MS4g1E-d7M0)
 - [Flutter Vikings Logo Creation - Live Code with Custom Painter](https://www.youtube.com/watch?v=9HcpD648pFQ)
 - [Integration Test Demo [Reupload] - Cross Platform Mobile Development Summit](https://www.youtube.com/watch?v=220KTSbaVrQ)
-- [Widget Test Demo - Cross Platform Mobile Development Summit 2020](https://www.youtube.com/watch?v=u8toWolo4BE)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
