@@ -8,11 +8,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Fixing the Flutter Get_it_mixins - App Idea Research - First glance at WebRTC](https://www.youtube.com/watch?v=otth4ML_9_U)
 - [Flutter Null Safety - Live Flutter Development](https://www.youtube.com/watch?v=gBF43NkBlg0)
 - [Flutter Redux - Single Source of Truth - State Management](https://www.youtube.com/watch?v=60_2HlagOzg)
 - [SOLID Principles - Five Principles to avoid Bad Software Patterns - Good to know](https://www.youtube.com/watch?v=tWXPd4Dkuls)
 - [Frontend Mentors - Create a Profile Card - Flutter Challange](https://www.youtube.com/watch?v=MS4g1E-d7M0)
-- [Flutter Vikings Logo Creation - Live Code with Custom Painter](https://www.youtube.com/watch?v=9HcpD648pFQ)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
