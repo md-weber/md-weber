@@ -8,11 +8,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [7. Best Practices for your Flutter Project](https://www.youtube.com/watch?v=bn5e95b3uLY)
 - [Flutter Package Detective - App Ideas - Electric App - Flutter Live Coding](https://www.youtube.com/watch?v=VqepK3GbMcw)
 - [Fixing the Flutter Get_it_mixins - App Idea Research - First glance at WebRTC](https://www.youtube.com/watch?v=otth4ML_9_U)
 - [Flutter Null Safety - Live Flutter Development](https://www.youtube.com/watch?v=gBF43NkBlg0)
 - [get_it_mixins - State management for get_it](https://www.youtube.com/watch?v=xwGFGO2PZZo)
-- [Flutter Redux - Single Source of Truth - State Management](https://www.youtube.com/watch?v=60_2HlagOzg)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
