@@ -17,11 +17,11 @@
 
 ## My latest Blogposts
 <!-- BLOG-POST-LIST:START -->
-- [Be Yourself, Everyone Else Is Already Taken.](https://flutter-explained.dev/be-yourself-everyone-else-is-already-taken/)
-- [Planning Your Online Business Goals With A Specialist](https://flutter-explained.dev/planning-your-online-business-goals-with-a-specialist/)
-- [Get in over your head as often and as joyfully as possible](https://flutter-explained.dev/get-in-over-your-head-as-often-and-as-joyfully-as-possible/)
-- [Tech Conference With Global Activities](https://flutter-explained.dev/tech-conference-with-global-activities/)
-- [Visual Identity System Is More Memorable](https://flutter-explained.dev/visual-identity-system-is-more-memorable/)
+- [My favorite Flutter Repositories when I learned Flutter](https://flutter-explained.dev/blog/flutter-repository-list/)
+- [3. Problems we avoid with our CI / CD pipeline](https://flutter-explained.dev/blog/ci-cd-setup-codemagic/)
+- [Step-by-Step guide for Flutter JSON Serialization](https://flutter-explained.dev/blog/flutter-json-serialization/)
+- [Flutter Navigation – Everything you need to know](https://flutter-explained.dev/blog/three-ways-to-handle-flutter-navigation/)
+- [Setup a Flutter Web Project on GitHub Pages](https://flutter-explained.dev/blog/setup-a-flutter-web-project-on-github-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Statistics
