@@ -17,11 +17,11 @@
 
 ## My latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Code Analysis & Linting in Flutter and Dart](https://flutter-explained.dev/blog/flutter-analysis-linting/)
 - [My favorite Flutter Repositories when I learned Flutter](https://flutter-explained.dev/blog/flutter-repository-list/)
 - [3. Problems we avoid with our CI / CD pipeline](https://flutter-explained.dev/blog/ci-cd-setup-codemagic/)
 - [Step-by-Step guide for Flutter JSON Serialization](https://flutter-explained.dev/blog/flutter-json-serialization/)
 - [Flutter Navigation – Everything you need to know](https://flutter-explained.dev/blog/three-ways-to-handle-flutter-navigation/)
-- [Setup a Flutter Web Project on GitHub Pages](https://flutter-explained.dev/blog/setup-a-flutter-web-project-on-github-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Statistics
