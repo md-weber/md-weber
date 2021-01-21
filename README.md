@@ -8,7 +8,7 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Automate your Testing on Devices with Integration Testing](https://www.youtube.com/watch?v=WPEsnJgW99M)
+- [Automate your Testing on Devices with Flutter Integration Testing](https://www.youtube.com/watch?v=WPEsnJgW99M)
 - [Flutter Code Linting - Improve your code and enforce Style and errors](https://www.youtube.com/watch?v=TBgWVqafJW4)
 - [Flutter Live Stream - Coffee and Tea with Mahtab](https://www.youtube.com/watch?v=5D8Z1AxWa3s)
 - [7. Best Practices for your Flutter Project](https://www.youtube.com/watch?v=bn5e95b3uLY)
