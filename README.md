@@ -1,4 +1,7 @@
 ### Hi there 👋 my name is Max - aka [Flutter Explained](https://flutter-explained.dev)
+[![YouTube Badge](https://img.shields.io/static/v1?label=YouTube&message=Subscribe&color=red&style=flat-square&logo=youtube&logoColor=red)](https://youtube.com/c/flutterexplained?sub_confirmation=1)
+[![Twitch Badge](https://img.shields.io/static/v1?label=Twitch&message=Follow&color=violet&style=flat-square&logo=twitch&logoColor=violet)](https://www.twitch.tv/maxflutter)
+[![Flutter Explained](https://img.shields.io/static/v1?label=Homepage&message=FlutterExplained&color=blue&style=flat-square)](https://flutter-explained.dev/)
 
 ## I'm a Gamer, Developer, and Mentor
 - 🔭 I’m currently working on a [Mentorship Program](https://gumroad.com/l/ydgtfV) and Dart Course
