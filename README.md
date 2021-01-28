@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter News - Jan. 2021 - Flutter Roadmap 2021 - Integration Test Update - Upcoming Events](https://www.youtube.com/watch?v=Gmcm_L4NzG0)
 - [Automate your Testing on Devices with Flutter Integration Testing](https://www.youtube.com/watch?v=WPEsnJgW99M)
 - [Flutter Code Linting - Improve your code and enforce Style and errors](https://www.youtube.com/watch?v=TBgWVqafJW4)
 - [Flutter Live Stream - Coffee and Tea with Mahtab](https://www.youtube.com/watch?v=5D8Z1AxWa3s)
 - [7. Best Practices for your Flutter Project](https://www.youtube.com/watch?v=bn5e95b3uLY)
-- [Flutter Package Detective - App Ideas - Electric App - Flutter Live Coding](https://www.youtube.com/watch?v=VqepK3GbMcw)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
