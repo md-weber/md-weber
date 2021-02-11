@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [12 Ideas to improve as a Software Engineer](https://www.youtube.com/watch?v=kmC5cmkejP4)
 - [Dart Foundation - Double - #Shorts](https://www.youtube.com/watch?v=ZcJnxhRuhYg)
 - [Learn Dart Foundations - Integer #Shorts](https://www.youtube.com/watch?v=gWpo0W4u7Ho)
 - [ScaffoldMessanger - Flutter Live Learning - Flutter Master Channel](https://www.youtube.com/watch?v=TuIWb8nkn2I)
 - [Learn Dart Foundation - Variables #Shorts](https://www.youtube.com/watch?v=FG7fKkibN7U)
-- [12 Ideas to improve as a Software Engineer](https://www.youtube.com/watch?v=kmC5cmkejP4)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
