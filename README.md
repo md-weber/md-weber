@@ -23,8 +23,8 @@
 - [Code Analysis & Linting in Flutter and Dart](https://flutter-explained.dev/blog/flutter-analysis-linting/)
 - [My favorite Flutter Repositories when I learned Flutter](https://flutter-explained.dev/blog/flutter-repository-list/)
 - [3. Problems we avoid with our CI / CD pipeline](https://flutter-explained.dev/blog/ci-cd-setup-codemagic/)
+- [Firebase Hosting for Flutter Web Projects in 4 easy steps](https://flutter-explained.dev/blog/flutter-web-to-firebase-hosting/)
 - [Step-by-Step guide for Flutter JSON Serialization](https://flutter-explained.dev/blog/flutter-json-serialization/)
-- [Flutter Navigation – Everything you need to know](https://flutter-explained.dev/blog/three-ways-to-handle-flutter-navigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Statistics
