@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [YouTube API - Create a Todo List Chat Moderator - Flutter Live Learning](https://www.youtube.com/watch?v=nUOoqSOJId0)
 - [YouTube Livestream API - Connect via oAuth 2 to GoogleServices - googleapis_auth](https://www.youtube.com/watch?v=3KfclTlg51c)
 - [Intro to Git - Learning #Git and #GitHub - Integration and Alternatives](https://www.youtube.com/watch?v=15--qZDWf6I)
 - [Final vs Const - Programming #Shorts](https://www.youtube.com/watch?v=GVYWrcdRsdk)
 - [Built-Time vs  Run-Time #Shorts](https://www.youtube.com/watch?v=elZZ_ChZYCQ)
-- [Spread operator & Null-aware operator on Lists, Maps and Sets in Dart](https://www.youtube.com/watch?v=TxAeoVEMYX4)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
