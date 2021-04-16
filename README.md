@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Open Source Development in Trufi - Flutter Live Learning](https://www.youtube.com/watch?v=fUGkITDcto4)
 - [Flutter Flavors - Flutter Live Learning](https://www.youtube.com/watch?v=nW2F4ao7gEM)
 - [SonarQube - Code Quality and Code Security - Code Quality Gates](https://www.youtube.com/watch?v=QD5J8YvQPPM)
 - [Full Introduction into Flutter Amplify - Amplify CLI - Amplify Authentication - DataStore](https://www.youtube.com/watch?v=1seFk3Fkuis)
 - [Flutter Navigator 2.0 - Is it ready yet? - Status update and Analysis of Navigator 2.0](https://www.youtube.com/watch?v=PHD1564GhAs)
-- [10.000 Subscriber Special - 1 Year Flutter Explained - Thank you!](https://www.youtube.com/watch?v=IIHSiqZdXgk)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
