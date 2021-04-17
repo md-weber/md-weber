@@ -2,7 +2,7 @@
 [![YouTube Badge](https://img.shields.io/static/v1?label=YouTube&message=Subscribe&color=red&style=flat-square&logo=youtube&logoColor=red)](https://youtube.com/c/flutterexplained?sub_confirmation=1)
 [![Twitch Badge](https://img.shields.io/static/v1?label=Twitch&message=Follow&color=violet&style=flat-square&logo=twitch&logoColor=violet)](https://www.twitch.tv/maxflutter)
 [![Flutter Explained](https://img.shields.io/static/v1?label=Homepage&message=FlutterExplained&color=blue&style=flat-square)](https://flutter-explained.dev/)
-
+![Profile views](https://gpvc.arturio.dev/md-weber)
 ## I'm a Gamer, Developer, and Mentor
 - 🔭 I’m currently working on a [Mentorship Program](https://gumroad.com/l/ydgtfV) and Dart Course
 - 🌱 I’m currently trying to build up a Flutter Consulting business
