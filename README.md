@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flavors in Flutter - Multiple apps from one source code - Icon Generation](https://www.youtube.com/watch?v=4Y7WaeU3P60)
 - [Support of an Open Source Project - Trufi - Flutter Story Time](https://www.youtube.com/watch?v=Ce_hlAvv5vI)
 - [Open Source Development in Trufi Part 2 - Flutter Live Learning - Just Chatting](https://www.youtube.com/watch?v=1W4M8BqhGp8)
 - [Open Source Development in Trufi - Flutter Live Learning](https://www.youtube.com/watch?v=fUGkITDcto4)
 - [Flutter Flavors - Flutter Live Learning](https://www.youtube.com/watch?v=nW2F4ao7gEM)
-- [SonarQube - Code Quality and Code Security - Code Quality Gates](https://www.youtube.com/watch?v=QD5J8YvQPPM)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
