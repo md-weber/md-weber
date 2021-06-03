@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on a [Mentorship Program](https://gumroad.com/l/ydgtfV) and Dart Course
 - 🌱 I’m currently trying to build up a Flutter Consulting business
 - 📫 How to reach me: https://twitter.com/flutter_exp
-- ⚡ Fun fact: I sleep longer than I am awake
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
