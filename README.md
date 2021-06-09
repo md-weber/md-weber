@@ -10,11 +10,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Primitive Data Types in Dart - #Shorts](https://www.youtube.com/watch?v=sYOWA6H9vLo)
 - [Value Types vs Reference Types - #Shorts](https://www.youtube.com/watch?v=m_chNAhrvQg)
 - [Flutter 2.2 & Dart 2.13 Patch Rundown](https://www.youtube.com/watch?v=VxZkdGVFyK8)
 - [Flavors in Flutter - Multiple apps from one source code - Icon Generation](https://www.youtube.com/watch?v=4Y7WaeU3P60)
 - [Support of an Open Source Project - Trufi - Flutter Story Time](https://www.youtube.com/watch?v=Ce_hlAvv5vI)
-- [Open Source Development in Trufi Part 2 - Flutter Live Learning - Just Chatting](https://www.youtube.com/watch?v=1W4M8BqhGp8)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
