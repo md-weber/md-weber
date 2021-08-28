@@ -10,11 +10,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Create Widgets fast - Dart - IDE Tipps and Tricks](https://www.youtube.com/watch?v=42j0H3pcCtc)
 - [Realtime Communication with WebRTC in Flutter & Dart](https://www.youtube.com/watch?v=hAKQzNQmNe0)
 - [Introduction into Flutter - Flutter Architecture - Why I love Flutter!](https://www.youtube.com/watch?v=fSn9xK7YCvY)
 - [Primitive Data Types in Dart - #Shorts](https://www.youtube.com/watch?v=sYOWA6H9vLo)
 - [Value Types vs Reference Types - #Shorts](https://www.youtube.com/watch?v=m_chNAhrvQg)
-- [Flutter 2.2 & Dart 2.13 Patch Rundown](https://www.youtube.com/watch?v=VxZkdGVFyK8)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
