@@ -10,11 +10,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Sunday Flutter Development - Q / A and some calm coding time in Flutter](https://www.youtube.com/watch?v=wiCU5LRw-4k)
 - [Sunday Flutter Development - Q / A and some calm coding time in Flutter](https://www.youtube.com/watch?v=Zq57znWzZaY)
 - [Create Widgets fast - Dart - IDE Tipps and Tricks](https://www.youtube.com/watch?v=42j0H3pcCtc)
 - [Realtime Communication with WebRTC in Flutter & Dart](https://www.youtube.com/watch?v=hAKQzNQmNe0)
 - [Introduction into Flutter - Flutter Architecture - Why I love Flutter!](https://www.youtube.com/watch?v=fSn9xK7YCvY)
-- [Primitive Data Types in Dart - #Shorts](https://www.youtube.com/watch?v=sYOWA6H9vLo)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
