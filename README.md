@@ -10,11 +10,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Sunday Flutter Development - Q / A and some calm coding time in Flutter & Dart](https://www.youtube.com/watch?v=-QT_WInCqws)
 - [Test Driven Development (TDD) - Steps to follow](https://www.youtube.com/watch?v=8-VnXc5UVEw)
 - [Sunday Flutter Development - Q / A and some calm coding time in Flutter](https://www.youtube.com/watch?v=wiCU5LRw-4k)
 - [Create Widgets fast - Dart - IDE Tipps and Tricks](https://www.youtube.com/watch?v=42j0H3pcCtc)
 - [Realtime Communication with WebRTC in Flutter & Dart](https://www.youtube.com/watch?v=hAKQzNQmNe0)
+- [Introduction into Flutter - Flutter Architecture - Why I love Flutter!](https://www.youtube.com/watch?v=fSn9xK7YCvY)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
