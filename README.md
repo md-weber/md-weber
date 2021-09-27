@@ -10,11 +10,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Flashcard App - Flutter Development from Scratch - Episode 1](https://www.youtube.com/watch?v=blHdHx6yJbQ)
 - [Sunday Flutter Development - Q / A and some calm coding time in Flutter & Dart](https://www.youtube.com/watch?v=-QT_WInCqws)
 - [Files and Folder Structure in Flutter & Dart](https://www.youtube.com/watch?v=wR1cMW1hSzM)
 - [Test Driven Development (TDD) - Steps to follow](https://www.youtube.com/watch?v=8-VnXc5UVEw)
 - [Sunday Flutter Development - Q / A and some calm coding time in Flutter](https://www.youtube.com/watch?v=wiCU5LRw-4k)
-- [Create Widgets fast - Dart - IDE Tipps and Tricks](https://www.youtube.com/watch?v=42j0H3pcCtc)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
