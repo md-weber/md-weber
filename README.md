@@ -10,11 +10,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Flutter Flashcard App - Live Flutter Development from Scratch - Episode 6](https://www.youtube.com/watch?v=JApcZtoFomo)
 - [Flutter Flashcard App - Flutter Development from Scratch - Episode 5](https://www.youtube.com/watch?v=UacJL8X1rlw)
 - [Flutter Flashcard App - Flutter Development from Scratch - Episode 4](https://www.youtube.com/watch?v=UqlAiK3HH8c)
 - [Files and Folder Structure in Flutter & Dart](https://www.youtube.com/watch?v=wR1cMW1hSzM)
 - [Flutter Flashcard App - Flutter Development from Scratch - Episode 3](https://www.youtube.com/watch?v=ZE1e410RUrk)
+- [Flutter Flashcard App - Flutter Development from Scratch - Episode 2](https://www.youtube.com/watch?v=r-tvCCPaObM)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
