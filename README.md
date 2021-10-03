@@ -11,7 +11,7 @@
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Flutter Flashcard App - Live Flutter Development from Scratch - Day 7](https://www.youtube.com/watch?v=GHumLGdnsPY)
-- [Objectbox Tutorial - Flutter Local Database with Sync implementation](https://www.youtube.com/watch?v=r9Lc2r22KBk)
+- [ObjectBox Tutorial - Flutter Local Database with Sync implementation](https://www.youtube.com/watch?v=r9Lc2r22KBk)
 - [Flutter Flashcard App - Live Flutter Development from Scratch - Episode 6](https://www.youtube.com/watch?v=JApcZtoFomo)
 - [Flutter Flashcard App - Flutter Development from Scratch - Episode 5](https://www.youtube.com/watch?v=UacJL8X1rlw)
 - [Flutter Flashcard App - Flutter Development from Scratch - Episode 4](https://www.youtube.com/watch?v=UqlAiK3HH8c)
