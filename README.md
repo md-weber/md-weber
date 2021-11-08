@@ -19,7 +19,7 @@
 
 ## My latest Blogposts
 <!-- BLOG-POST-LIST:START -->
-- [Code Analysis & Linting in Flutter and Dart](https://flutter-explained.dev/blog/flutter-analysis-linting/)
+- [Code Analysis &amp; Linting in Flutter and Dart](https://flutter-explained.dev/blog/flutter-analysis-linting/)
 - [My favorite Flutter Repositories when I learned Flutter](https://flutter-explained.dev/blog/flutter-repository-list/)
 - [3. Problems we avoid with our CI / CD pipeline](https://flutter-explained.dev/blog/ci-cd-setup-codemagic/)
 - [Firebase Hosting for Flutter Web Projects in 4 easy steps](https://flutter-explained.dev/blog/flutter-web-to-firebase-hosting/)
