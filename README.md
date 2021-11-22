@@ -10,11 +10,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [PDF Generator in Flutter - How to create your next Invoice](https://www.youtube.com/watch?v=6bYG-JwnoO4)
 - [Client &amp; Server Architecture - Build your first Web Server with Dart](https://www.youtube.com/watch?v=kYM-wlOhQ3I)
 - [Libraries vs Framework - Discussion and Talk 🎯 Dart &amp; 💙 Flutter](https://www.youtube.com/watch?v=JUXAllS4xSg)
 - [Ask me anything &lpar;AMA&rpar; - Questions and Answers - Just Chatting](https://www.youtube.com/watch?v=Hc1Y_z_Xdp0)
 - [ObjectBox Tutorial - Flutter Local Database with Sync implementation](https://www.youtube.com/watch?v=r9Lc2r22KBk)
-- [Flutter Flashcard App - Live Flutter Development from Scratch - Day 7](https://www.youtube.com/watch?v=GHumLGdnsPY)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
