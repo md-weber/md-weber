@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [CustomPainter - Art with Flutter](https://www.youtube.com/watch?v=gggZvD1pxJU)
 - [How the Web communicates - HTTP](https://www.youtube.com/watch?v=KYpl87SAbXw)
 - [Basic Animation in Flutter - #Shorts](https://www.youtube.com/watch?v=S1WjYBPLdQE)
 - [Full Qonversion Tutorial - Monetize Digital Products](https://www.youtube.com/watch?v=1M-jQ4QwlIE)
 - [PDF Generator in Flutter - How to create your next Invoice](https://www.youtube.com/watch?v=6bYG-JwnoO4)
-- [Client &amp; Server Architecture - Build your first Web Server with Dart](https://www.youtube.com/watch?v=kYM-wlOhQ3I)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
