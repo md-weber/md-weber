@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to use local databases in Flutter - Getting started with Isar DB](https://www.youtube.com/watch?v=CwC9-a9hJv4)
 - [Create a Socket Connection in Dart - #shorts](https://www.youtube.com/watch?v=hQCh2JtjhAk)
 - [Realtime Applications with Sockets - Introduction in Sockets with Dart](https://www.youtube.com/watch?v=cpEYw8HuoxI)
 - [Make your Dart Web Server accessible to everyone - Deployment with Heroku](https://www.youtube.com/watch?v=nkTUMVNelXA)
 - [Flutter Quiz App - Firebase Authentication - Episode 5 - Live Coding / Learning](https://www.youtube.com/watch?v=9m8B8DRTFJk)
-- [Flutter Quiz App - Onboarding Screen - Episode 4 - Live Coding / Learning](https://www.youtube.com/watch?v=uOoMY_sQmW4)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
