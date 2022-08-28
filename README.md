@@ -12,7 +12,7 @@
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Getting Started with Isar Database - #Shorts](https://www.youtube.com/watch?v=faU1gqdxXJs)
-- [How to use local databases in Flutter - Getting started with Isar DB](https://www.youtube.com/watch?v=CwC9-a9hJv4)
+- [Getting started with Isar DB - Introduction in Local DB](https://www.youtube.com/watch?v=CwC9-a9hJv4)
 - [Create a Socket Connection in Dart - #shorts](https://www.youtube.com/watch?v=hQCh2JtjhAk)
 - [Realtime Applications with Sockets - Introduction in Sockets with Dart](https://www.youtube.com/watch?v=cpEYw8HuoxI)
 - [Make your Dart Web Server accessible to everyone - Deployment with Heroku](https://www.youtube.com/watch?v=nkTUMVNelXA)
