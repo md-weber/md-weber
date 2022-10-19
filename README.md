@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [When you find the tiny bug you search hours - #shorts](https://www.youtube.com/watch?v=4sEaTKXz97E)
 - [IntelliJ | Flutter &amp; Dart | User Flow Testing Tool for Flutter](https://www.youtube.com/watch?v=r8g--YmgIJo)
 - [IntelliJ | Flutter &amp; Dart | User Flow Testing Tool for Flutter](https://www.youtube.com/watch?v=YLD0Km3Y7xE)
 - [IntelliJ | Flutter &amp; Dart | User Flow Testing Tool for Flutter](https://www.youtube.com/watch?v=PrDzrCyim8E)
 - [Fix the error command not found in the windows terminal](https://www.youtube.com/watch?v=FDjDipXAeow)
-- [Flutter 3.3 - Dart 2.18 - Flutter Vikings 2022 - zapp.run and Flame Game Jam](https://www.youtube.com/watch?v=ZULXfSqxEiw)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
