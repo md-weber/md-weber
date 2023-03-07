@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Widgets 101: Building a Basic Flutter App with Text, Container, Row, Column, and Scaffold](https://www.youtube.com/watch?v=ipfyJXNteqc)
+- [Darting into the Basics: A Crash Course on Dart Programming Language](https://www.youtube.com/watch?v=OBDWm6xSyT0)
 - [Interview | Sono Motors Tech Day: A Behind-the-Scenes Look at the EV App Development](https://www.youtube.com/watch?v=IWOCeGETBpY)
 - [Honey: Sweetening Up Flutter Integration Testing #shorts](https://www.youtube.com/watch?v=zsUlqd4ymeU)
 - [Effortless Integration Testing in Flutter with Fluttium, Patrol, and Honey](https://www.youtube.com/watch?v=2nE7qSWYyf4)
-- [IntelliJ | Flutter &amp; Dart | Impeller Round 2 - Flame Engine working on a MicroGame](https://www.youtube.com/watch?v=4TZ4uHoPlG0)
-- [IntelliJ | Flutter &amp; Dart | Impeller -  Waiting for Xcode  - First Look and understanding -](https://www.youtube.com/watch?v=uT6jnrzyH6k)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
