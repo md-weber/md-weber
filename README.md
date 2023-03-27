@@ -15,7 +15,7 @@
 - [AI Hype &amp; Opportunities for Flutter Developers?](https://www.youtube.com/watch?v=S5x_cWOPSoM)
 - [Introduction into Widgets in Flutter](https://www.youtube.com/watch?v=XTeYMNPqMbI)
 - [Understanding Hot Restart / Hot Reload - Flutter #shorts](https://www.youtube.com/watch?v=DQ8VTJXuSAM)
-- [Flutter Widgets 101: Building a Basic Flutter App with Text, Container, Row, Column, and Scaffold](https://www.youtube.com/watch?v=ipfyJXNteqc)
+- [Step by Step Guide on how to run your first flutter app in 15 minutes](https://www.youtube.com/watch?v=drSyOMgIFEQ)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
