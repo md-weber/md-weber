@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Integrating ChatGPT API with Flutter: A Quick Guide](https://www.youtube.com/watch?v=igr0iyHBZQA)
 - [Flutter Explained - Channel Trailer 2023](https://www.youtube.com/watch?v=BM2owpRPx3A)
 - [AI Hype &amp; Opportunities for Flutter Developers?](https://www.youtube.com/watch?v=S5x_cWOPSoM)
 - [Introduction into Widgets in Flutter](https://www.youtube.com/watch?v=XTeYMNPqMbI)
 - [Understanding Hot Restart / Hot Reload - Flutter #shorts](https://www.youtube.com/watch?v=DQ8VTJXuSAM)
-- [Step by Step Guide on how to run your first flutter app in 15 minutes](https://www.youtube.com/watch?v=drSyOMgIFEQ)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
