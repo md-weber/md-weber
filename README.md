@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Step by Step Guide on how to run your first flutter app in 15 minutes](https://www.youtube.com/watch?v=drSyOMgIFEQ)
+- [Custom Animations in Flutter: Intermediate Guide](https://www.youtube.com/watch?v=3QwVhxDIryk)
+- [Step by Step Guide on how to run your first flutter app in 10 minutes](https://www.youtube.com/watch?v=drSyOMgIFEQ)
 - [Darting into the Basics: A Crash Course on Dart Programming Language](https://www.youtube.com/watch?v=OBDWm6xSyT0)
 - [Integrating ChatGPT API with Flutter: A Quick Guide](https://www.youtube.com/watch?v=igr0iyHBZQA)
 - [Flutter Explained - Channel Trailer 2023](https://www.youtube.com/watch?v=BM2owpRPx3A)
-- [AI Hype &amp; Opportunities for Flutter Developers?](https://www.youtube.com/watch?v=S5x_cWOPSoM)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
