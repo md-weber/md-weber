@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Power of Feedback](https://www.youtube.com/watch?v=sjvhHcOp4L0)
 - [AI Hype and the future for Software Development](https://www.youtube.com/watch?v=RJfvT1qLtuc)
 - [Custom Animations in Flutter: Intermediate Guide](https://www.youtube.com/watch?v=3QwVhxDIryk)
 - [Step by Step Guide on how to run your first flutter app in 10 minutes](https://www.youtube.com/watch?v=drSyOMgIFEQ)
 - [Darting into the Basics: A Crash Course on Dart Programming Language](https://www.youtube.com/watch?v=OBDWm6xSyT0)
-- [Integrating ChatGPT API with Flutter: A Quick Guide](https://www.youtube.com/watch?v=igr0iyHBZQA)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
