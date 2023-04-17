@@ -12,10 +12,10 @@
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Town Hall Meeting - Planning May](https://www.youtube.com/watch?v=bVCI3z7iTN0)
+- [Mastering the Art of Feedback: Essential Tips for Personal &amp; Professional Success](https://www.youtube.com/watch?v=-zEZY82-GNk)
 - [The Power of Feedback](https://www.youtube.com/watch?v=sjvhHcOp4L0)
 - [AI Hype and the future for Software Development](https://www.youtube.com/watch?v=RJfvT1qLtuc)
 - [Custom Animations in Flutter: Intermediate Guide](https://www.youtube.com/watch?v=3QwVhxDIryk)
-- [Step by Step Guide on how to run your first flutter app in 10 minutes](https://www.youtube.com/watch?v=drSyOMgIFEQ)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
