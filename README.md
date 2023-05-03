@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Unlock the power of CI / CD - Learn how to setup your first pipelines!](https://www.youtube.com/watch?v=XHYcPPmYw_s)
 - [CI/CD Basics for Flutter &amp; Dart: Your first steps in CI / CD](https://www.youtube.com/watch?v=WkhqiT3hbrE)
 - [Giving Feedback like a pro - Soft Skills in Software Engineering](https://www.youtube.com/watch?v=-zEZY82-GNk)
 - [Flutter Widgets 101: Building a Basic Flutter App with Text, Container, Row, Column, and Scaffold](https://www.youtube.com/watch?v=ipfyJXNteqc)
 - [The Power of Feedback](https://www.youtube.com/watch?v=sjvhHcOp4L0)
-- [AI Hype and the future for Software Development](https://www.youtube.com/watch?v=RJfvT1qLtuc)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
