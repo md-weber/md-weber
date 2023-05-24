@@ -12,10 +12,10 @@
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Flutter CI / CD with Codemagic - Pros and Cons of UI vs Yaml file](https://www.youtube.com/watch?v=RX2dXz9eD1c)
+- [Flutter 3.10 - Dart 3.0 - Serverpod 1.1 - Google Flip - Flutter News](https://www.youtube.com/watch?v=CEgQfiZUlxQ)
 - [Unlock the power of CI / CD - Learn how to setup your first pipelines!](https://www.youtube.com/watch?v=XHYcPPmYw_s)
 - [Roadmap 2023 and the Future of Cross-Platform Mobile Development](https://www.youtube.com/watch?v=WZqNeGvHoMg)
 - [CI/CD Basics for Flutter &amp; Dart: Your first steps in CI / CD](https://www.youtube.com/watch?v=WkhqiT3hbrE)
-- [Giving Feedback like a pro - Soft Skills in Software Engineering](https://www.youtube.com/watch?v=-zEZY82-GNk)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
