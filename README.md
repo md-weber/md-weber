@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Live Learning - Exploring Serverpod Together: A First Look at Flutter&#39;s Backend](https://www.youtube.com/watch?v=ws0KngThKzo)
 - [From Codemagic to Firebase Test Lab - CI / CD to Integration Tests](https://www.youtube.com/watch?v=gW6YKjrQBlA)
 - [Flutter 3.10 - Dart 3.0 - Serverpod 1.1 - Google Flip - Flutter News](https://www.youtube.com/watch?v=CEgQfiZUlxQ)
 - [Flutter CI / CD with Codemagic - Pros and Cons of UI vs Yaml file](https://www.youtube.com/watch?v=RX2dXz9eD1c)
 - [Unlock the power of CI / CD - Learn how to setup your first pipelines!](https://www.youtube.com/watch?v=XHYcPPmYw_s)
-- [Roadmap 2023 and the Future of Cross-Platform Mobile Development](https://www.youtube.com/watch?v=WZqNeGvHoMg)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
