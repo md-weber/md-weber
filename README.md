@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter App Deployment - Leverage Codemagic CD to publish your app to Google Play Store](https://www.youtube.com/watch?v=mg8_pM7sGM8)
 - [Live Learning - Exploring Serverpod Together: Creating a Journal App](https://www.youtube.com/watch?v=ws0KngThKzo)
 - [Coding Chameleons: The Importance of Being a Versatile Developer](https://www.youtube.com/watch?v=-LbjnPLlwxE)
 - [From Codemagic to Firebase Test Lab - CI / CD to Integration Tests](https://www.youtube.com/watch?v=gW6YKjrQBlA)
 - [Flutter 3.10 - Dart 3.0 - Serverpod 1.1 - Google Flip - Flutter News](https://www.youtube.com/watch?v=CEgQfiZUlxQ)
-- [Flutter CI / CD with Codemagic - Pros and Cons of UI vs Yaml file](https://www.youtube.com/watch?v=RX2dXz9eD1c)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
