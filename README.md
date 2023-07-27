@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Records &amp; Patterns - How to make the most out of them](https://www.youtube.com/watch?v=IybAuSPDucY)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=Z6Z-UixU3Po)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=Bk9t3Vsn90c)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker Server](https://www.youtube.com/watch?v=VLGHpt7pYF0)
 - [I received my new Sony ZV-E10! - Unboxing and Review](https://www.youtube.com/watch?v=zfL6KLUc-WY)
-- [Fluttercon 2023: Unpacking the Highlights and Beyond &lpar;Podcast&rpar;](https://www.youtube.com/watch?v=LH7b-JZ6jZk)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
