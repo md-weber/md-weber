@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=_rZiuPvyXxc)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=-CVhL3CA9us)
 - [Records &amp; Patterns - Get started with the newest addition in Dart 3.0](https://www.youtube.com/watch?v=IybAuSPDucY)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=Z6Z-UixU3Po)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=Bk9t3Vsn90c)
-- [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker Server](https://www.youtube.com/watch?v=VLGHpt7pYF0)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
