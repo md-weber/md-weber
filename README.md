@@ -12,7 +12,7 @@
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=Kb2C49cMM1o)
-- [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=py0xYGBbxTk)
+- [Figma and Design - Warcraft III Game Tracker](https://www.youtube.com/watch?v=py0xYGBbxTk)
 - [Records in Dart](https://www.youtube.com/watch?v=flSF9OEhJ0g)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=_rZiuPvyXxc)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=-CVhL3CA9us)
