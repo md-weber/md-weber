@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Inject LUA scripts in your running game with Unity - Live from the Mobidictum Gaming Conference](https://www.youtube.com/watch?v=rxWQmH0c4pI)
 - [Challenging Coding Conventions: Introducing DCM Rule Enforcement](https://www.youtube.com/watch?v=ETmPOc7Z4uc)
 - [Figma and Design - Warcraft III Game Tracker](https://www.youtube.com/watch?v=py0xYGBbxTk)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=Kb2C49cMM1o)
 - [Records in Dart](https://www.youtube.com/watch?v=flSF9OEhJ0g)
-- [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=_rZiuPvyXxc)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
