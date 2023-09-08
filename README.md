@@ -11,11 +11,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Inject .lua scripts safe into your Unity game - Live from @mobidictumonline 2023](https://www.youtube.com/watch?v=rArVujLxUPw)
 - [Challenging Coding Conventions: Introducing DCM Rule Enforcement](https://www.youtube.com/watch?v=ETmPOc7Z4uc)
 - [Figma and Design - Warcraft III Game Tracker](https://www.youtube.com/watch?v=py0xYGBbxTk)
 - [Records in Dart](https://www.youtube.com/watch?v=flSF9OEhJ0g)
 - [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=_rZiuPvyXxc)
-- [Gonic | Go | Flutter - Working on our Warcraft III Game Tracker](https://www.youtube.com/watch?v=-CVhL3CA9us)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
