@@ -1,6 +1,7 @@
 ### Hi there 👋 my name is Max - aka [Flutter Explained](https://flutter-explained.dev)
 [![YouTube Badge](https://img.shields.io/static/v1?label=YouTube&message=Subscribe&color=red&style=flat-square&logo=youtube&logoColor=red)](https://youtube.com/c/flutterexplained?sub_confirmation=1)
 [![Flutter Explained](https://img.shields.io/static/v1?label=Homepage&message=FlutterExplained&color=blue&style=flat-square)](https://flutter-explained.dev/)
+[Mastodon](https://techhub.social/@flutterexp)
 
 ## I'm a Gamer, Developer, and Mentor
 - 🌱 I’m currently trying to build up a Flutter Consulting business
