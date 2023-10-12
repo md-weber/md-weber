@@ -10,11 +10,11 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [CptPixel Talks Games, Flame Engine, and Beyond! - Flutter Firebase Festival Interview](https://www.youtube.com/watch?v=nvc8B7Sc1Lc)
 - [Shader Masks in Flutter - How to use shader masks in Flutter](https://www.youtube.com/watch?v=TnoRCqNNOps)
 - [@LeanCodePl at Flutter Firebase Festival 2023: Testing and Monitoring Apps](https://www.youtube.com/watch?v=RAyjdTERc9g)
 - [@codemagicio at Flutter Firebase Festival 2023: CI/CD for Flutter and Firebase Apps](https://www.youtube.com/watch?v=_Kt17bwgvWA)
 - [@FlutterFlow at Flutter Firebase Festival 2023: No-Code App Development](https://www.youtube.com/watch?v=xT0S-aJFOvU)
-- [@talsec at Flutter Firebase Festival 2023: A Security Partner&#39;s Perspective](https://www.youtube.com/watch?v=mawbeeX-_ow)
 <!-- YOUTUBE:END -->
 
 ## My latest Blogposts
