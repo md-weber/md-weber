@@ -10,9 +10,9 @@
 
 ## My latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Endless Scroll Animation in Flutter - Beautiful Flutter Animations for everyday developer](https://www.youtube.com/watch?v=37dG1EBKwwE)
 - [CptPixel Talks Games, Flame Engine, and Beyond! - Flutter Firebase Festival Interview](https://www.youtube.com/watch?v=nvc8B7Sc1Lc)
 - [Shader Masks in Flutter - How to use shader masks in Flutter](https://www.youtube.com/watch?v=TnoRCqNNOps)
-- [Endless Scroll Animation in Flutter - Beautiful Flutter Animations for everyday developer](https://www.youtube.com/watch?v=37dG1EBKwwE)
 - [@LeanCodePl at Flutter Firebase Festival 2023: Testing and Monitoring Apps](https://www.youtube.com/watch?v=RAyjdTERc9g)
 - [@codemagicio at Flutter Firebase Festival 2023: CI/CD for Flutter and Firebase Apps](https://www.youtube.com/watch?v=_Kt17bwgvWA)
 <!-- YOUTUBE:END -->
