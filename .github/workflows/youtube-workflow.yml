@@ -13,3 +13,7 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCgUnLn1FpuHHmO66vn4o1NA"
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://flutter-explained.dev/posts/index.xml"
