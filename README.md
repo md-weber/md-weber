@@ -19,11 +19,11 @@
 
 ## My latest Blogposts
 <!-- BLOG-POST-LIST:START -->
-- [Code Analysis &amp; Linting in Flutter and Dart](https://flutter-explained.dev/blog/flutter-analysis-linting/)
-- [My favorite Flutter Repositories when I learned Flutter](https://flutter-explained.dev/blog/flutter-repository-list/)
-- [3. Problems we avoid with our CI / CD pipeline](https://flutter-explained.dev/blog/ci-cd-setup-codemagic/)
-- [Firebase Hosting for Flutter Web Projects in 4 easy steps](https://flutter-explained.dev/blog/flutter-web-to-firebase-hosting/)
-- [Step-by-Step guide for Flutter JSON Serialization](https://flutter-explained.dev/blog/flutter-json-serialization/)
+- [My personal career path](https://flutter-explained.dev/posts/personal_dev_story/)
+- [A terminal real time application with Dart Sockets](https://flutter-explained.dev/posts/a-terminal-real-time-application-with-dart-sockets/)
+- [Deployment of a Dart Server on Heroku](https://flutter-explained.dev/posts/deploy-dart-server-on-heroku/)
+- [Code Analysis &amp; Linting in Flutter and Dart](https://flutter-explained.dev/posts/code-analysis-and-linting-in-flutter-and-dart/)
+- [Repositories that are worth mentioning](https://flutter-explained.dev/posts/top-7-flutter-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Statistics
