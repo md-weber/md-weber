@@ -19,11 +19,11 @@
 
 ## My latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing ldash 1.0.0 — A Terminal Finance Dashboard for hledger](https://flutter-explained.dev/posts/ldash/)
 - [My personal career path](https://flutter-explained.dev/posts/personal_dev_story/)
 - [A terminal real time application with Dart Sockets](https://flutter-explained.dev/posts/a-terminal-real-time-application-with-dart-sockets/)
 - [Deployment of a Dart Server on Heroku](https://flutter-explained.dev/posts/deploy-dart-server-on-heroku/)
 - [Code Analysis &amp; Linting in Flutter and Dart](https://flutter-explained.dev/posts/code-analysis-and-linting-in-flutter-and-dart/)
-- [Repositories that are worth mentioning](https://flutter-explained.dev/posts/top-7-flutter-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Statistics
